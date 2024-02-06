@@ -5,10 +5,13 @@ YOLOv5-ODConvNeXt is an improved version of YOLOv5s for ship detection on drone-
 
 <img src="./figures/structure.png" width = "1200"  align=center />
 
+## Contributions
+Changed the detect.py in such a way that it is supports in newer version of torch 
+
 ## Install
 
 ```bash
-git clone https://github.com/chengshuxiao/YOLOv5-ODConvNeXt.git  # clone
+git clone [https://github.com/chengshuxiao/YOLOv5-ODConvNeXt.git](https://github.com/jsjoel/YOLOv5-ODConvNeXt/blob/main/detect.py)  # clone
 cd YOLOv5-ODConvNeXt
 pip install -r requirements.txt  # install
 ```
