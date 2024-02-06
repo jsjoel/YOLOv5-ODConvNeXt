@@ -58,3 +58,4 @@ Thanks to their great works.
 - [ultralytics/yolov5](https://github.com/ultralytics/yolov5)
 - [facebookresearch/ConvNeXt](https://github.com/facebookresearch/ConvNeXt)
 - [OSVAI/ODConv](https://github.com/OSVAI/ODConv)
+- (https://github.com/chengshuxiao/YOLOv5-ODConvNeXt.git)
